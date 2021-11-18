@@ -2,5 +2,6 @@
 
 This is the main page for the Copmany "ALME"
 
-Daniel Morales 
+Bryan Silva Andrade
+Daniel Ochoa Morales 
 Shanil
