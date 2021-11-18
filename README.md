@@ -1,1 +1,1 @@
-# Project---Entreprenuerism-Ethics
+# ALME- Automated Living Made Easy
